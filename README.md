@@ -1,0 +1,2 @@
+# TpGIt
+Setting up git
